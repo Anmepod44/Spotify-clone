@@ -1,0 +1,69 @@
+com.example.musify.app-hilt-navigation-compose-1.0.0-0 C:\Users\HP\.gradle\caches\transforms-3\08055d9d0a9ff3e2768804e803683624\transformed\hilt-navigation-compose-1.0.0\res
+com.example.musify.app-media-1.4.3-1 C:\Users\HP\.gradle\caches\transforms-3\10ace4c8a63d5f1eca2bb64ca716e5de\transformed\media-1.4.3\res
+com.example.musify.app-transition-1.2.0-2 C:\Users\HP\.gradle\caches\transforms-3\120c21fbed37759dc2dff50ce4cd265b\transformed\transition-1.2.0\res
+com.example.musify.app-lifecycle-runtime-2.5.1-3 C:\Users\HP\.gradle\caches\transforms-3\15493b27a5c409105405cd6c670ad0d9\transformed\lifecycle-runtime-2.5.1\res
+com.example.musify.app-exoplayer-ui-2.18.1-4 C:\Users\HP\.gradle\caches\transforms-3\17f3c1ec6f47823d5831214a15838903\transformed\exoplayer-ui-2.18.1\res
+com.example.musify.app-drawerlayout-1.1.1-5 C:\Users\HP\.gradle\caches\transforms-3\1a1cdef3f7a25ef9b35c3d7950c15bb2\transformed\drawerlayout-1.1.1\res
+com.example.musify.app-foundation-1.3.0-6 C:\Users\HP\.gradle\caches\transforms-3\211f180d7da4763aaf009a67a7c4eab9\transformed\foundation-1.3.0\res
+com.example.musify.app-navigation-common-ktx-2.5.1-7 C:\Users\HP\.gradle\caches\transforms-3\2763eaf3dbb97bda966de374c33a6e35\transformed\navigation-common-ktx-2.5.1\res
+com.example.musify.app-customview-poolingcontainer-1.0.0-8 C:\Users\HP\.gradle\caches\transforms-3\3092876bde592ec7396234fde3b1e39e\transformed\customview-poolingcontainer-1.0.0\res
+com.example.musify.app-ui-unit-1.3.0-9 C:\Users\HP\.gradle\caches\transforms-3\310581567cfcf81c8585c912248641b8\transformed\ui-unit-1.3.0\res
+com.example.musify.app-material-ripple-1.3.0-10 C:\Users\HP\.gradle\caches\transforms-3\31c809c254221c8b5bc57e5b9fa83952\transformed\material-ripple-1.3.0\res
+com.example.musify.app-ui-1.3.0-11 C:\Users\HP\.gradle\caches\transforms-3\32b26085ddc76e220dce73effbff65cd\transformed\ui-1.3.0\res
+com.example.musify.app-lifecycle-runtime-ktx-2.5.1-12 C:\Users\HP\.gradle\caches\transforms-3\3503032247308f71325929116f4338b2\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.musify.app-activity-ktx-1.5.1-13 C:\Users\HP\.gradle\caches\transforms-3\363dece099f536ceb5fc1f5cc40f3023\transformed\activity-ktx-1.5.1\res
+com.example.musify.app-coil-base-2.1.0-14 C:\Users\HP\.gradle\caches\transforms-3\385b6e37ba76574aff5007cf3144b18c\transformed\coil-base-2.1.0\res
+com.example.musify.app-navigation-runtime-ktx-2.5.1-15 C:\Users\HP\.gradle\caches\transforms-3\3a81ad2606e50f7b77a50b49a435e7d2\transformed\navigation-runtime-ktx-2.5.1\res
+com.example.musify.app-lifecycle-viewmodel-2.5.1-16 C:\Users\HP\.gradle\caches\transforms-3\3c5b2a90a884c72276f8cfceaf8bd55a\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.musify.app-ui-tooling-preview-1.3.0-17 C:\Users\HP\.gradle\caches\transforms-3\3d3842a3a49959a7bd8d8bbaabf4b730\transformed\ui-tooling-preview-1.3.0\res
+com.example.musify.app-foundation-layout-1.3.0-18 C:\Users\HP\.gradle\caches\transforms-3\3fafd62f71f50ac48d89d68265eb0915\transformed\foundation-layout-1.3.0\res
+com.example.musify.app-cardview-1.0.0-19 C:\Users\HP\.gradle\caches\transforms-3\3ff7e9b83fbdacab9c9d6cfcb76c8391\transformed\cardview-1.0.0\res
+com.example.musify.app-lottie-5.2.0-20 C:\Users\HP\.gradle\caches\transforms-3\4126e5043224f173781d988485aa815d\transformed\lottie-5.2.0\res
+com.example.musify.app-ui-test-manifest-1.3.0-21 C:\Users\HP\.gradle\caches\transforms-3\42249269c2f692be2583f9faf8dcb04d\transformed\ui-test-manifest-1.3.0\res
+com.example.musify.app-fragment-1.3.6-22 C:\Users\HP\.gradle\caches\transforms-3\514c2bd348313067d1d576dd420acc5a\transformed\fragment-1.3.6\res
+com.example.musify.app-coordinatorlayout-1.1.0-23 C:\Users\HP\.gradle\caches\transforms-3\6546f41b724292d48698d0d77450e87a\transformed\coordinatorlayout-1.1.0\res
+com.example.musify.app-lifecycle-viewmodel-ktx-2.5.1-24 C:\Users\HP\.gradle\caches\transforms-3\6844937af8713f5f296c757944066955\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.musify.app-material-icons-core-1.3.0-25 C:\Users\HP\.gradle\caches\transforms-3\6e09c3624001cfdabce4a4c3ed144589\transformed\material-icons-core-1.3.0\res
+com.example.musify.app-runtime-saveable-1.3.0-26 C:\Users\HP\.gradle\caches\transforms-3\71b362f56ec68b5dd400f65893d9f866\transformed\runtime-saveable-1.3.0\res
+com.example.musify.app-ui-tooling-1.3.0-27 C:\Users\HP\.gradle\caches\transforms-3\77d1cb6b445630ccf920b7345619f11a\transformed\ui-tooling-1.3.0\res
+com.example.musify.app-ui-geometry-1.3.0-28 C:\Users\HP\.gradle\caches\transforms-3\7bdeaf1f60401a5d450b579dc93380ae\transformed\ui-geometry-1.3.0\res
+com.example.musify.app-activity-compose-1.5.1-29 C:\Users\HP\.gradle\caches\transforms-3\8139da542f5d07b2eaac9aae5f092924\transformed\activity-compose-1.5.1\res
+com.example.musify.app-recyclerview-1.2.1-30 C:\Users\HP\.gradle\caches\transforms-3\85f6f478220b82385268e20095950904\transformed\recyclerview-1.2.1\res
+com.example.musify.app-viewpager2-1.0.0-31 C:\Users\HP\.gradle\caches\transforms-3\870af23512facc11b2cd422d690836c4\transformed\viewpager2-1.0.0\res
+com.example.musify.app-material-1.3.0-32 C:\Users\HP\.gradle\caches\transforms-3\886c74f95aba812f1c874fc7e4f87ba2\transformed\material-1.3.0\res
+com.example.musify.app-navigation-compose-2.5.1-33 C:\Users\HP\.gradle\caches\transforms-3\8bd75513d2b566618690e7f1e1e73cf0\transformed\navigation-compose-2.5.1\res
+com.example.musify.app-savedstate-ktx-1.2.0-34 C:\Users\HP\.gradle\caches\transforms-3\8c506c92330adfd42bddfde19557f528\transformed\savedstate-ktx-1.2.0\res
+com.example.musify.app-core-ktx-1.7.0-35 C:\Users\HP\.gradle\caches\transforms-3\8d74d642e0bfef66530a854bea94a413\transformed\core-ktx-1.7.0\res
+com.example.musify.app-animation-1.3.0-36 C:\Users\HP\.gradle\caches\transforms-3\8f226aaa50150ee70a20769fd4fcfd77\transformed\animation-1.3.0\res
+com.example.musify.app-appcompat-1.3.1-37 C:\Users\HP\.gradle\caches\transforms-3\96dc01458d25035f5da5bd0830a139eb\transformed\appcompat-1.3.1\res
+com.example.musify.app-hilt-navigation-1.0.0-38 C:\Users\HP\.gradle\caches\transforms-3\9c31507298017e171e8868df562400f5\transformed\hilt-navigation-1.0.0\res
+com.example.musify.app-annotation-experimental-1.1.0-39 C:\Users\HP\.gradle\caches\transforms-3\a3dcd4ba8292acbc33d09e1a6908f0c6\transformed\annotation-experimental-1.1.0\res
+com.example.musify.app-paging-compose-1.0.0-alpha15-40 C:\Users\HP\.gradle\caches\transforms-3\a40fd0aedce3d661e0539921d3bc3171\transformed\paging-compose-1.0.0-alpha15\res
+com.example.musify.app-navigation-runtime-2.5.1-41 C:\Users\HP\.gradle\caches\transforms-3\a96afc77c18bc7be25e99ab066a09bda\transformed\navigation-runtime-2.5.1\res
+com.example.musify.app-ui-util-1.3.0-42 C:\Users\HP\.gradle\caches\transforms-3\a9c5d5e5fd9dc585b3510b979322771c\transformed\ui-util-1.3.0\res
+com.example.musify.app-animation-core-1.3.0-43 C:\Users\HP\.gradle\caches\transforms-3\ab6900992a5bf1e97c5ebfa68a6c4937\transformed\animation-core-1.3.0\res
+com.example.musify.app-lifecycle-viewmodel-savedstate-2.5.1-44 C:\Users\HP\.gradle\caches\transforms-3\acaeddb548c5481ae7c450079924999c\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.musify.app-appcompat-resources-1.4.1-45 C:\Users\HP\.gradle\caches\transforms-3\aff909e119c8b96cc4f8705b6164d0c0\transformed\appcompat-resources-1.4.1\res
+com.example.musify.app-lifecycle-viewmodel-compose-2.5.1-46 C:\Users\HP\.gradle\caches\transforms-3\b319f9ba9b7b4c096a4710a582fb2e19\transformed\lifecycle-viewmodel-compose-2.5.1\res
+com.example.musify.app-navigation-common-2.5.1-47 C:\Users\HP\.gradle\caches\transforms-3\b3cddd43254d0f2ea131c1b19b8cc255\transformed\navigation-common-2.5.1\res
+com.example.musify.app-constraintlayout-2.0.1-48 C:\Users\HP\.gradle\caches\transforms-3\b4d874649df7b53e0e0d56abd2efc254\transformed\constraintlayout-2.0.1\res
+com.example.musify.app-activity-1.5.1-49 C:\Users\HP\.gradle\caches\transforms-3\b5724abc0d471224190981d9bd57d2d7\transformed\activity-1.5.1\res
+com.example.musify.app-exoplayer-core-2.18.1-50 C:\Users\HP\.gradle\caches\transforms-3\becaa2b6cb67c0e32d27afa530350864\transformed\exoplayer-core-2.18.1\res
+com.example.musify.app-paging-runtime-3.1.1-51 C:\Users\HP\.gradle\caches\transforms-3\c98802fe249367190acf5a5fcc9ec553\transformed\paging-runtime-3.1.1\res
+com.example.musify.app-runtime-1.3.0-52 C:\Users\HP\.gradle\caches\transforms-3\cc4fd639b42c311f111836d9851da3df\transformed\runtime-1.3.0\res
+com.example.musify.app-ui-text-1.3.0-53 C:\Users\HP\.gradle\caches\transforms-3\d1c57839c4982ec7aeb624299d6a8bb4\transformed\ui-text-1.3.0\res
+com.example.musify.app-ui-graphics-1.3.0-54 C:\Users\HP\.gradle\caches\transforms-3\d3773f9471b2e6cbe629344a5c71e4cb\transformed\ui-graphics-1.3.0\res
+com.example.musify.app-startup-runtime-1.1.1-55 C:\Users\HP\.gradle\caches\transforms-3\e90bfc56821c5c661d441a98807260b3\transformed\startup-runtime-1.1.1\res
+com.example.musify.app-lifecycle-livedata-core-2.5.1-56 C:\Users\HP\.gradle\caches\transforms-3\e93aa4f9bcf3f8b615d363ef38b3eb3c\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.musify.app-ui-tooling-data-1.3.0-57 C:\Users\HP\.gradle\caches\transforms-3\eb36af301710f763a87bb3b65ebd61f1\transformed\ui-tooling-data-1.3.0\res
+com.example.musify.app-savedstate-1.2.0-58 C:\Users\HP\.gradle\caches\transforms-3\ec965911cde37f285ce2cd5909fdb340\transformed\savedstate-1.2.0\res
+com.example.musify.app-material-1.6.1-59 C:\Users\HP\.gradle\caches\transforms-3\f553b1cca1af6b2e341835fb7ea81fdd\transformed\material-1.6.1\res
+com.example.musify.app-profileinstaller-1.2.0-60 C:\Users\HP\.gradle\caches\transforms-3\fe10f598ce6981434f0868d08f9dcc82\transformed\profileinstaller-1.2.0\res
+com.example.musify.app-core-1.8.0-61 C:\Users\HP\.gradle\caches\transforms-3\fee26dc1cfa2d09e60ba77e6873722a2\transformed\core-1.8.0\res
+com.example.musify.app-resValues-62 F:\Android Projects\Musify\app\build\generated\res\resValues\debug
+com.example.musify.app-rs-63 F:\Android Projects\Musify\app\build\generated\res\rs\debug
+com.example.musify.app-packageDebugResources-64 F:\Android Projects\Musify\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.musify.app-packageDebugResources-65 F:\Android Projects\Musify\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.musify.app-merged_res-66 F:\Android Projects\Musify\app\build\intermediates\merged_res\debug
+com.example.musify.app-debug-67 F:\Android Projects\Musify\app\src\debug\res
+com.example.musify.app-main-68 F:\Android Projects\Musify\app\src\main\res
